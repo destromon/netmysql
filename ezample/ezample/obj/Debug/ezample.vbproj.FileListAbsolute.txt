@@ -1,0 +1,13 @@
+C:\Users\Jesus\Desktop\testing\ezample\ezample\bin\Debug\ezample.exe.config
+C:\Users\Jesus\Desktop\testing\ezample\ezample\bin\Debug\ezample.exe
+C:\Users\Jesus\Desktop\testing\ezample\ezample\bin\Debug\ezample.pdb
+C:\Users\Jesus\Desktop\testing\ezample\ezample\bin\Debug\ezample.xml
+C:\Users\Jesus\Desktop\testing\ezample\ezample\obj\Debug\ezample.Form1.resources
+C:\Users\Jesus\Desktop\testing\ezample\ezample\obj\Debug\ezample.Resources.resources
+C:\Users\Jesus\Desktop\testing\ezample\ezample\obj\Debug\ezample.vbproj.GenerateResource.Cache
+C:\Users\Jesus\Desktop\testing\ezample\ezample\obj\Debug\ezample.exe
+C:\Users\Jesus\Desktop\testing\ezample\ezample\obj\Debug\ezample.xml
+C:\Users\Jesus\Desktop\testing\ezample\ezample\obj\Debug\ezample.pdb
+C:\Users\Jesus\Desktop\testing\ezample\ezample\bin\Debug\MySql.Data.dll
+C:\Users\Jesus\Desktop\testing\ezample\ezample\obj\Debug\ezample.vbprojResolveAssemblyReference.cache
+C:\Users\Jesus\Desktop\testing\ezample\ezample\obj\Debug\ezample.Form1_add.resources
