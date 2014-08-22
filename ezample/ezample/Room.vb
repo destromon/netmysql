@@ -11,7 +11,7 @@
                 dReader = .ExecuteReader
             End With
 
-            'clear list
+            'clear listing
             lv.Items.Clear()
 
             'populate listview
@@ -26,4 +26,8 @@
             dbClose()
         End Try
     End Sub
+
+    Public Function exists()
+
+    End Function
 End Class
